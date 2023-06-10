@@ -4,16 +4,16 @@ Nội dung 1: Đăng nhập thành công!
 Nội dung 2: Bấm 'OK' để vào game.
 Nút: Lấy Key
 Link Key: https://fnote.net/notes/4fDh2N
-Iconsize : 45 
-Title : <b>isHack</b>
-Subtitle : <b><marquee><p style=\"font-size:30\">
-Subtitle2 : <p style=\"color:green;\">Modded by LGL</p> | 
-Subtitle3 : https://github.com/LGLTeam | Lorem Ipsum is simply dummy text of the printing and typesetting</p>
-Subtitle4 : </marquee></b>
-Setting : ⚙
-Setting2 : \uD83D\uDD27
-Hide : Hide
-ToastHide : Icon hidden. Remember the hidden icon position
-ToastHide2 : Menu killed
-Close : Close
-Toastmodby : Mod by XXXX
+Iconsize: 45 
+Title: <b>isHack</b>
+Subtitle: <b><marquee><p style=\"font-size:30\">
+Subtitle2: <p style=\"color:green;\">Modded by LGL</p> | 
+Subtitle3: https://github.com/LGLTeam | Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+Subtitle4: </marquee></b>
+Setting: ⚙
+Setting2: \uD83D\uDD27
+Hide: Hide
+ToastHide: Icon hidden. Remember the hidden icon position
+ToastHide2: Menu killed
+Close: Close
+Toastmodby: Mod by XXXX
