@@ -4,13 +4,13 @@ Nội dung 1: Đăng nhập thành công!
 Nội dung 2: Bấm 'OK' để vào game.
 Nút: Lấy Key
 Link Key: https://fnote.net/notes/4fDh2N
-Iconsize : 
+Iconsize : 45 
 Title : 
 Subtitle : 
 Setting : 
-Hide : 
-ToastHide : 
-ToastHide2 : 
-Close : 
-ToastClose : 
-Toastmodby : 
+Hide : Hide
+ToastHide : Icon hidden. Remember the hidden icon position
+ToastHide2 : Menu killed
+Close : Close
+
+Toastmodby : Mod by XXXX
