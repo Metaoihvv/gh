@@ -3,5 +3,5 @@ Textsubversionmod: Cập Nhật Tại t.me/SanzuVipMod
 m_key0: Lấy Key Tại t.me/SanzuVipMod
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
 KeyMain: 
-TitleImGui: Telegram: @SanzuVipMod, Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile Miễn Phí
+TitleImGui: Telegram: @SanzuVipMod
 TitleImGui2: Bạn Bị FBI Bắt, Tôi Thấy Được Bạn Đang Làm Gì, Đằng Sau Lưng Có Con Ma Kìa
