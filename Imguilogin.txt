@@ -1,7 +1,7 @@
-Versionmod: 6jbh
-Textsubversionmod: Đã có bản cập nhật mới, vui lòng cập nhật!.
-m_key0: Key bạn vừa nhập không chính xác!
+Versionmod: 6jbu
+Textsubversionmod: Cập Nhật Tại t.me/SanzuVipMod
+m_key0: Lấy Key Tại t.me/SanzuVipMod
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
-KeyMain: 1
+KeyMain: 
 TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile Miễn Phí
 TitleImGui2: Bạn Bị FBI Bắt, Tôi Thấy Được Bạn Đang Làm Gì, Đằng Sau Lưng Có Con Ma Kìa
