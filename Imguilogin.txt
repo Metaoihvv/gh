@@ -5,3 +5,4 @@ HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
 KeyMain: 
 TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 TitleImGui2: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
+CRE: 
