@@ -2,7 +2,7 @@ Versionmod: 6jbu4
 Textsubversionmod: Cập Nhật Tại t.me/SanzuVipMod
 m_key0: Lấy Key Tại t.me/SanzuVipMod
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
-KeyMain: 
+KeyMain: 1
 TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 TitleImGui2: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 CRE: Created By Hung
