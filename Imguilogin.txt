@@ -3,6 +3,7 @@ Textsubversionmod: Cập Nhật Tại t.me/SanzuChannel
 m_key0: Lấy Key Tại t.me/SanzuChannel
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
 KeyMain: 
+Note: Liên Quân Mobile 32bit
 TitleImGui: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 TitleImGui2: Liên Quân Mobile 32bit - Hack, Hack Liên Quân Mobile
 CRE: Made by VietNam
