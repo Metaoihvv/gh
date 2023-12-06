@@ -1,6 +1,6 @@
 Versionmod: 6jbu4
-Textsubversionmod: Cập Nhật Tại t.me/SanzuChannel
-m_key0: Lấy Key Tại t.me/SanzuChannel
+Textsubversionmod: Cập Nhật Tại https://t.me/HGMOD_C
+m_key0: Lấy Key Tại https://t.me/HGMOD_C
 HSDHack: HSD: ??h:??m:??s - ??m/??d/????y.
 KeyMain: 
 Note: LienQuanMobile32bitlQ
